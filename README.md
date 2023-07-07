@@ -4,7 +4,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/wuxiaorbw/count.svg) visit
 
 This is BIT_zkyq.
 - 💬 I'm a 4th year undergraduate majored in **Electronic & Infomation Engineering**.
-- 👯 Currently Studying in Beijing Institution of Technology (BIT), Beijing, China.
+- 👯 Currently Studying in **Beijing Institution of Technology (BIT)**, Beijing, China.
 - 👀 I’m interested in **Brain-Computer Interface & electrophysiology signal processing**.
 - 😄 Also have fun in **classical & pop music and reading** in my leisure time. Discussion welcomed!
 - 📫 My Personal Email: wuxiaorbw@126.com
